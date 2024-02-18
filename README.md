@@ -1,1 +1,1 @@
-# xtcursor
+# Prohibit all commercial activities
