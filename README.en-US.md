@@ -11,7 +11,7 @@
 - Open the folder
 - Right-click on setup.inf, and in the tab that opens, select the "Install" option.
 # Misc
-Don't forget to give XxianKuang a follow!
+Don't forget to give XianKuang a follow!
 - [BiliBili](https://space.bilibili.com/400839602)
 - [X](https://twitter.com/xiankuangxk)
 # LICENSE
