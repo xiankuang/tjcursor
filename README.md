@@ -1,6 +1,8 @@
 [The English version is here](README.en-US.md)
 # 适用系统
 - Windows
+# 光标预览
+![image](Images/Preview.gif)
 # 光标版本
  - xtcursor1X
  1倍缩放，对应最小尺寸光标，视觉效果较为模糊

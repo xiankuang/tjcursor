@@ -1,5 +1,7 @@
 # Applicable Systems
 - Windows
+# Cursor Preview
+![image](Images/Preview.gif)
 # Cursor Version
  - xtcursor1X
  1x zoom, corresponding to the smallest size cursor, the visual effect is blurry
